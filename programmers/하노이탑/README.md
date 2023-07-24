@@ -9,3 +9,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/12946
 1번의 가장 큰 n을 3번으로 옮긴다.
 
 2번의 n-1개를 3번으로 옮긴다.
+
+
+## 후기
+일반화 하고 이를 코드로 옮기는 것이 어려웠다.
